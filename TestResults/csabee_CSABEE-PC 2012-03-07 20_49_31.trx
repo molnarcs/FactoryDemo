@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c1c53c6b-acee-47a7-9220-eb32bd3f7c22" name="csabee@CSABEE-PC 2012-03-07 20:49:31" runUser="csabee-PC\csabee" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a735ae1b-cd0b-4343-a311-8612d00281aa">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="csabee_CSABEE-PC 2012-03-07 20_49_31">
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\Unity.Interception.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Interception.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\FactoryDemo\bin\FactoryDemo.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Configuration.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\packages\Unity.Interception.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Interception.Configuration.dll" />
+      <DeploymentItem filename="C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-07T20:49:31.0247823+01:00" queuing="2012-03-07T20:49:31.1897918+01:00" start="2012-03-07T20:49:31.2197935+01:00" finish="2012-03-07T20:49:32.0118388+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="CSABEE-PC" outcome="Warning" timestamp="2012-03-07T20:49:31.0317827+01:00">
+        <Text>Deployment is currently disabled. The deployment item 'unity.config' on test 'Test.Controllers.ControllerTest.EditTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EditTest" storage="c:\users\csabee\documents\visual studio 2010\projects\factorydemo\test\bin\debug\test.dll" id="01c5e9f3-963a-42f7-d8a5-1c91c5ef40f7">
+      <DeploymentItems>
+        <DeploymentItem filename="unity.config" />
+      </DeploymentItems>
+      <Execution id="0ed5138d-a492-4390-8540-520020b861d9" />
+      <TestMethod codeBase="C:/Users/csabee/Documents/Visual Studio 2010/Projects/FactoryDemo/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Controllers.ControllerTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EditTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="01c5e9f3-963a-42f7-d8a5-1c91c5ef40f7" executionId="0ed5138d-a492-4390-8540-520020b861d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="0ed5138d-a492-4390-8540-520020b861d9" testId="01c5e9f3-963a-42f7-d8a5-1c91c5ef40f7" testName="EditTest" computerName="CSABEE-PC" duration="00:00:00.4776893" startTime="2012-03-07T20:49:31.2317942+01:00" endTime="2012-03-07T20:49:31.9878374+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ed5138d-a492-4390-8540-520020b861d9">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Valami&gt;. Actual:&lt;Test&gt;. </Message>
+          <StackTrace>   at Test.Controllers.ControllerTest.EditTest() in C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\Controllers\ControllerTest.cs:line 50
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

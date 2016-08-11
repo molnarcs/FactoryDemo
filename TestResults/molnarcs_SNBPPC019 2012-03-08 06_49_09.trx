@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f115ac25-761c-4154-83b4-c19a57495e3d" name="molnarcs@SNBPPC019 2012-03-08 06:49:09" runUser="SN\molnarcs" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a735ae1b-cd0b-4343-a311-8612d00281aa">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="molnarcs_SNBPPC019 2012-03-08 06_49_09">
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Configuration.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\FactoryDemo\bin\FactoryDemo.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\Unity.Interception.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Interception.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\Unity.Interception.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Interception.Configuration.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-03-08T06:49:09.9573176+01:00" queuing="2012-03-08T06:49:09.9973896+01:00" start="2012-03-08T06:49:10.0094112+01:00" finish="2012-03-08T06:49:10.9641266+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="1" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="SNBPPC019" outcome="Warning" timestamp="2012-03-08T06:49:09.9963878+01:00">
+        <Text>Deployment is currently disabled. The deployment item 'unity.config' on test 'Test.Controllers.ControllerTest.EditTest' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EditTest" storage="d:\temp\factorydemo\factorydemo\test\bin\debug\test.dll" id="01c5e9f3-963a-42f7-d8a5-1c91c5ef40f7">
+      <DeploymentItems>
+        <DeploymentItem filename="unity.config" />
+      </DeploymentItems>
+      <Execution id="9dd1a789-b3d6-40d0-a0da-7b15054d4bdd" />
+      <TestMethod codeBase="d:/temp/FactoryDemo/FactoryDemo/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Controllers.ControllerTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EditTest" />
+    </UnitTest>
+    <UnitTest name="Edit_Failed_TooLongtName" storage="d:\temp\factorydemo\factorydemo\test\bin\debug\test.dll" id="380198bc-6281-bcb1-48c2-48331accc818">
+      <DeploymentItems>
+        <DeploymentItem filename="unity.config" />
+      </DeploymentItems>
+      <Execution id="e0f18b2e-ebbe-47f9-afb7-b907384f9fb8" />
+      <TestMethod codeBase="d:/temp/FactoryDemo/FactoryDemo/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Controllers.ControllerTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Edit_Failed_TooLongtName" />
+    </UnitTest>
+    <UnitTest name="Edit_Failed_TooShortName" storage="d:\temp\factorydemo\factorydemo\test\bin\debug\test.dll" id="7f059479-5e2a-0869-7194-c68544b67148">
+      <DeploymentItems>
+        <DeploymentItem filename="unity.config" />
+      </DeploymentItems>
+      <Execution id="3db70064-4b97-471a-a3c4-f795d05dc8ca" />
+      <TestMethod codeBase="d:/temp/FactoryDemo/FactoryDemo/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Controllers.ControllerTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Edit_Failed_TooShortName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="01c5e9f3-963a-42f7-d8a5-1c91c5ef40f7" executionId="9dd1a789-b3d6-40d0-a0da-7b15054d4bdd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="380198bc-6281-bcb1-48c2-48331accc818" executionId="e0f18b2e-ebbe-47f9-afb7-b907384f9fb8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7f059479-5e2a-0869-7194-c68544b67148" executionId="3db70064-4b97-471a-a3c4-f795d05dc8ca" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="9dd1a789-b3d6-40d0-a0da-7b15054d4bdd" testId="01c5e9f3-963a-42f7-d8a5-1c91c5ef40f7" testName="EditTest" computerName="SNBPPC019" duration="00:00:00.4561849" startTime="2012-03-08T06:49:10.0214328+01:00" endTime="2012-03-08T06:49:10.6585776+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9dd1a789-b3d6-40d0-a0da-7b15054d4bdd">
+    </UnitTestResult>
+    <UnitTestResult executionId="e0f18b2e-ebbe-47f9-afb7-b907384f9fb8" testId="380198bc-6281-bcb1-48c2-48331accc818" testName="Edit_Failed_TooLongtName" computerName="SNBPPC019" duration="00:00:00.0144752" startTime="2012-03-08T06:49:10.6605812+01:00" endTime="2012-03-08T06:49:10.6786136+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e0f18b2e-ebbe-47f9-afb7-b907384f9fb8">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Test&gt;. Actual:&lt;Valami&gt;. </Message>
+          <StackTrace>   at Test.Controllers.ControllerTest.Edit_Failed_TooLongtName() in d:\temp\FactoryDemo\FactoryDemo\Test\Controllers\ControllerTest.cs:line 122
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="3db70064-4b97-471a-a3c4-f795d05dc8ca" testId="7f059479-5e2a-0869-7194-c68544b67148" testName="Edit_Failed_TooShortName" computerName="SNBPPC019" duration="00:00:00.0040342" startTime="2012-03-08T06:49:10.6796154+01:00" endTime="2012-03-08T06:49:10.6886316+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3db70064-4b97-471a-a3c4-f795d05dc8ca">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;Test&gt;. Actual:&lt;Valami&gt;. </Message>
+          <StackTrace>   at Test.Controllers.ControllerTest.Edit_Failed_TooShortName() in d:\temp\FactoryDemo\FactoryDemo\Test\Controllers\ControllerTest.cs:line 86
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

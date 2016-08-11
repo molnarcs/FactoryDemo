@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9efcf181-dedc-4a7e-b61c-41c8a31769b2" name="csabee@CSABEE-PC 2012-04-17 16:26:44" runUser="csabee-PC\csabee" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="a735ae1b-cd0b-4343-a311-8612d00281aa">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="csabee_CSABEE-PC 2012-04-17 16_26_44">
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\EntityFramework.4.1.10331.0\lib\EntityFramework.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\CommonServiceLocator.1.0\lib\NET35\Microsoft.Practices.ServiceLocation.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\FactoryDemo\bin\FactoryDemo.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Configuration.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\Moq.4.0.10827\lib\NET40\Moq.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\Unity.Interception.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Interception.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\Unity.Interception.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.Interception.Configuration.dll" />
+      <DeploymentItem filename="d:\_WORK_\_Oktatas_\BME\FactoryDemo\packages\Unity.2.1.505.0\lib\NET35\Microsoft.Practices.Unity.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-04-17T16:26:44.5680692+02:00" queuing="2012-04-17T16:26:45.4381190+02:00" start="2012-04-17T16:26:45.4831215+02:00" finish="2012-04-17T16:26:46.6181865+02:00" />
+  <ResultSummary outcome="Warning">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="CSABEE-PC" outcome="Warning" timestamp="2012-04-17T16:26:45.0890990+02:00">
+        <Text>Deployment is currently disabled. The deployment item 'unity.config' on test 'Test.Controllers.ControllerTest.Edit_Failed_TooLongtName' was not deployed.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="Edit_Failed_TooLongtName" storage="d:\_work_\_oktatas_\bme\factorydemo\test\bin\debug\test.dll" id="380198bc-6281-bcb1-48c2-48331accc818">
+      <DeploymentItems>
+        <DeploymentItem filename="unity.config" />
+      </DeploymentItems>
+      <Execution id="71a8a405-c7cc-4728-94fe-fc299f21240d" />
+      <TestMethod codeBase="d:/_WORK_/_Oktatas_/BME/FactoryDemo/Test/bin/Debug/Test.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="Test.Controllers.ControllerTest, Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="Edit_Failed_TooLongtName" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="380198bc-6281-bcb1-48c2-48331accc818" executionId="71a8a405-c7cc-4728-94fe-fc299f21240d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="71a8a405-c7cc-4728-94fe-fc299f21240d" testId="380198bc-6281-bcb1-48c2-48331accc818" testName="Edit_Failed_TooLongtName" computerName="CSABEE-PC" duration="00:00:00.6436625" startTime="2012-04-17T16:26:45.5801271+02:00" endTime="2012-04-17T16:26:46.5571830+02:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="71a8a405-c7cc-4728-94fe-fc299f21240d">
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,150 @@
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Test.dll.config
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Test.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Test.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\DataAccess.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\DataAccess.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\obj\Debug\Test.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\obj\Debug\Test.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\EntityFramework.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\FactoryDemo.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Moq.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\FactoryDemo.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\EntityFramework.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Moq.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\Moq.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\Test\bin\Debug\unity.config
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\unity.config
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Test.dll.config
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Test.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Test.pdb
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\DataAccess.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\EntityFramework.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\FactoryDemo.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Moq.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\DataAccess.pdb
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\FactoryDemo.pdb
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\EntityFramework.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Moq.pdb
+d:\temp\FactoryDemo\FactoryDemo\Test\bin\Debug\Moq.xml
+d:\temp\FactoryDemo\FactoryDemo\Test\obj\Debug\ResolveAssemblyReference.cache
+d:\temp\FactoryDemo\FactoryDemo\Test\obj\Debug\Test.dll
+d:\temp\FactoryDemo\FactoryDemo\Test\obj\Debug\Test.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\unity.config
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Test.dll.config
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Test.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Test.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\DataAccess.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\EntityFramework.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\FactoryDemo.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Moq.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\DataAccess.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\FactoryDemo.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\EntityFramework.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Moq.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\bin\Debug\Moq.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\obj\Debug\ResolveAssemblyReference.cache
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\obj\Debug\Test.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\Test\obj\Debug\Test.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\obj\Debug\Test.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\unity.config
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Test.dll.config
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Test.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Test.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\DataAccess.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\EntityFramework.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\FactoryDemo.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Moq.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\DataAccess.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\FactoryDemo.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\EntityFramework.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Moq.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\bin\Debug\Moq.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\Test\obj\Debug\Test.pdb
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\unity.config
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Test.dll.config
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Test.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Test.pdb
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\DataAccess.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\EntityFramework.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\FactoryDemo.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Moq.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.Helpers.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.Mvc.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.WebPages.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.Razor.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.WebPages.Razor.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\DataAccess.pdb
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\FactoryDemo.pdb
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\EntityFramework.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Practices.Unity.Interception.Configuration.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Moq.pdb
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Moq.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.Helpers.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.Mvc.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.WebPages.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.Razor.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.WebPages.Razor.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\Microsoft.Web.Infrastructure.xml
+D:\Dev\GIT\FactoryDemo\Test\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Dev\GIT\FactoryDemo\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Dev\GIT\FactoryDemo\Test\obj\Debug\Test.dll
+D:\Dev\GIT\FactoryDemo\Test\obj\Debug\Test.pdb

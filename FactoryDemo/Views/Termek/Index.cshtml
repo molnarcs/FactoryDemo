@@ -1,0 +1,46 @@
+﻿@model IEnumerable<FactoryDemo.Models.Termek>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<table>
+    <tr>
+        <th>
+            Azonosito
+        </th>
+        <th>
+            Nev
+        </th>
+        <th>
+            KategoriaAzonosito
+        </th>
+        <th>
+            Ar
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Azonosito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nev)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.KategoriaAzonosito)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ar)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new {  id=item.Azonosito })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,52 @@
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\csabee\Documents\Visual Studio 2010\Projects\FactoryDemo\DataAccess\obj\Debug\DataAccess.pdb
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll.config
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\DataAccess.pdb
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\obj\Debug\DataAccess.dll
+d:\temp\FactoryDemo\FactoryDemo\DataAccess\obj\Debug\DataAccess.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\obj\Debug\DataAccess.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\obj\Debug\DataAccess.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll.config
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\DataAccess.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+d:\_WORK_\_Oktatas_\BME\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\DataAccess.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\DataAccess.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\obj\Debug\DataAccess.dll
+D:\Dev\TFS\molnarcs\TestEducation\FactoryDemo\DataAccess\obj\Debug\DataAccess.pdb
